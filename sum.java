@@ -13,6 +13,7 @@ public class Variable_Test_DC {
 		 System.out.println("Value of A:  "+C);
 		 System.out.println("Value of A:  "+C);
 		 System.out.println("Value of A:  "+C);
+		 System.out.println("Value of A:  "+C);
 		  
 	}
 
